@@ -1,0 +1,158 @@
+
+.fa-bars{
+    font-size: 20px;
+    margin-left: 40px;
+   
+ 
+   
+}
+.fa-youtube{
+    margin-top: 30px;
+    color: red;
+    font-size:20px ;
+    margin-left: 30px; 
+}
+span{
+    color: black;
+}
+sup{
+    color: black;
+}
+.fa-folder-plus{
+  margin-left: 1100px; 
+  font-size: 30px;
+}
+.fa-bell{
+    margin-left: 1500px; 
+  font-size: 30px;
+  padding: 20px;
+  margin: auto;
+  
+}
+.fa-circle-info{
+    font-size:30px ;
+}
+.fa-microphone{
+   
+    font-size: 30px;
+   margin: 5px;
+   
+    
+}
+
+
+
+input{
+    text-align: center;
+    
+    border-radius: 30px;
+    margin-bottom: 40px;
+    font-size: 40px;
+   
+
+   
+}
+
+
+
+ul{
+    
+    margin: 10px;
+    padding: 0;
+     
+} 
+li{
+    display: inline;
+    float: left;
+   ;
+
+}
+a{
+    border-radius: 20px;
+    margin: 9px;;
+    padding: 4px;
+    background-color: rgb(232, 230, 230);
+    color: rgb(28, 27, 27);
+    font-size: 30px;
+    text-decoration: none;
+    
+
+}
+a:hover{
+background-color: rgba(132, 132, 132, 0.48);
+}
+.card1{
+
+
+height: 350px;
+width: 350px;
+border-radius: 20px;
+margin-left: 300px;
+display: inline-block;
+float: left;
+padding-top: 0px;
+margin-top: 0px;   
+}
+.vid1{
+border-radius: 20px;
+}
+.para1{
+font-size: 25px;
+line-height: 20px;
+}
+h1{
+line-height: 10px;
+}
+.loc1{
+margin-top: 90px;
+padding-left: 0;
+height: 0px;
+width: 200px;
+border: px black solid;
+border-radius: 20px;
+margin-left: 10px;
+}
+.la1{
+   
+    margin-top: px;
+    width: 399;
+    height: 70px;
+    padding: 4px;           
+    color: rgb(28, 27, 27);          
+    text-decoration: none;
+    display: inline-block;
+    float: left;
+}
+.la2{
+    background-color: rgba(183, 184, 185, 0.92);
+    font-size: 35px;
+    
+}
+.la3{
+    background-color: white;
+   font-size: 25px;
+}
+.la4{
+    margin-bottom: 30px;
+    text-decoration: overline;
+    
+}
+.card2{
+    height: 350px;
+width: 350px;
+
+border-radius: 20px;
+margin-left: 100px;
+
+}
+
+.card2{
+height: 350px;
+width: 350px;
+border-radius: 20px;
+
+display: inline-block;
+padding-top: 0px;
+margin-top: 0px; 
+} 
+
